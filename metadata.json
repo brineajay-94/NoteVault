@@ -1,0 +1,6 @@
+{
+  "name": "VaultNote",
+  "description": "Secure notes and password vault with AES-256 encryption, custom passcode protection, and Gemini smart summarization/suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
